@@ -23,7 +23,7 @@ UoM Discord
 Anyone who helped or provided me through this process up to this point!
 
 ## Direct Link
-https://sandersonhub.github.io/passwordapp/
+[https://sandersonhub.github.io/passwordapp/](https://sandersonhub.github.io/Schedule-Application-Workday/)
 
 ## Feature Photos
 ![chrome_U0jhO50clY](https://github.com/SandersonHub/Schedule-Application/assets/128574459/c5cba485-4a14-4db4-bc94-75e51c490b43)
